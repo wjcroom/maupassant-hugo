@@ -1,5 +1,5 @@
 # Maupassant
-
+wjcroom没效果[雪落无痕](http://hugo.ezdial.cn)
 Maupassant theme, ported to Hugo.
 
 1. 预览效果:[飞雪无情的博客](http://www.flysnow.org)
